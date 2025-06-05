@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/projects/"}
+{"dg-publish":true,"dg-path":"Projects.md","permalink":"/projects/"}
 ---
 
 # MRC Quick Link BYOD
