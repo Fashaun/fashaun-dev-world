@@ -4,10 +4,13 @@
 
 https://www.youtube.com/watch?v=ZIplmLp_S8w
 
+![YouTube 截圖](https://img.youtube.com/vi/ZIplmLp_S8w/maxresdefault.jpg)
+
+
 這段內容是 Beyond the Bench 節目的一集，主持人 Bill Brock 採訪了 Bootland 的共同所有人兼執行長 Tomas Pedone，討論了嵌入式 Linux 的開發和應用。他們深入探討了 Tomas 的背景、Bootland 的業務以及嵌入式 Linux 領域的挑戰與趨勢。
 # Tomas Pedone 的職業生涯
 
-  - Tomas 從高中就對系統程式設計產生興趣，並自學 C 語言 [00:02:26]
+  - Tomas 從高中就對系統程式設計產生興趣，並自學 C 語言 00:02:26
   - 他曾在法國的一家新創公司工作，該公司開發基於 Linux 的分散式儲存系統 [00:06:53]
   - 他於 2008 年加入 Bootland，並於 2021 年與另一位同事共同收購了這家公司 [00:00:53]
 
