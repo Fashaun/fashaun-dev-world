@@ -5,9 +5,13 @@
 
 # Edge-core
 
-## WiFi Controller 
+> Hotel Guest WiFi Hotspot Solution
 
-## WiFi AP
+## WiFi Controller (WLC)
+- https://www.cisco.com/c/en/us/products/wireless/wireless-lan-controller/what-is-wlan-controller.html
+- https://wifi.edge-core.com/wlan-gateway-controller/
+
+## WiFi AP (LWAP)
 ## Concept of "Service Zone"
 Service Zones are virtual partitions of the physical LAN side of a Controller. Similar to VLANs, Service Zones can be separately managed and defined with their own user landing pages, network interface settings, DHCP servers, authentication options, policies, security settings, and so on. By associating Service Zones with a unique VLAN Tag (when using tag-based mode) and an SSID, administrator can flexibly separate wired and wireless networks with ease.
 
