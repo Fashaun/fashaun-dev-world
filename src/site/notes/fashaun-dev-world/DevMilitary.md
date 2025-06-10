@@ -22,9 +22,30 @@ Service Zones are virtual partitions of the physical LAN side of a Controller. S
 	- (4) Page Customization
 
 
+## Concept of "Complete Tunnel"
+
+- Complete Tunnel uses the CAPWAP protocol to communicate with an Access Point so that all management traffic, authentication traffic and data traffic from the service area Access Point provided are transmitted back to the Controller, before forwarding data traffic to the internet. The Controller is able to implement role-based policies over Layer 3 networks, with user access control available in the remote sites. This feature allows the Controller to fully support centralized Access Point management and user management.
+
+![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250610211409.png)
+
+
 ## Concept of "Split Tunnel"
+- For Split tunnel, only user authentication related traffic will be directed back to the controller. For authenticated users, data traffic will go to the Internet through the local network directly. The user data can be transmitted with a shorter path and the network load of the controller can also be reduced.
+
+![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250610211434.png)
+
+### Application Scenario
+
+![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250610211815.png)
+### Related Works
+
+- https://www.fortinet.com/resources/cyberglossary/vpn-split-tunneling
+- https://tailscale.com/learn/what-is-split-tunneling-secure-critical-data-vpn
+- https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/configure-warp/route-traffic/split-tunnels/
+- https://surfshark.com/zh-tw/features/split-tunneling?srsltid=AfmBOooeVieG9jWOb8tR0DbgWeg0bWTSUahTL8WJ2cXi8A-IaFELPABa
+
 
 # Tags
-#edgecore
+#edgecore, #capwap
 # Ref
 - https://www.edge-core.com/_upload/files/Service_Zone_Concept_20180627.pdf
