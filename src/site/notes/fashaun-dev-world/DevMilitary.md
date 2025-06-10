@@ -52,3 +52,4 @@ Service Zones are virtual partitions of the physical LAN side of a Controller. S
 #edgecore, #capwap
 # Ref
 - https://www.edge-core.com/_upload/files/Service_Zone_Concept_20180627.pdf
+- https://www.youtube.com/@edgecorewifi4615
