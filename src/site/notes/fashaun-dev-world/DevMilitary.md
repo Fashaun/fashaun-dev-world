@@ -36,7 +36,7 @@ Service Zones are virtual partitions of the physical LAN side of a Controller. S
 
 ### Application Scenario
 
-![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250610211815.png)
+![](/img/user/fashaun-dev-world/attachments/Pasted image 20250610212825.png)
 ### Related Works
 
 - https://www.fortinet.com/resources/cyberglossary/vpn-split-tunneling
