@@ -8,9 +8,7 @@
 
 ![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250606165811.png)
 
-![](/img/user/fashaun-dev-world/attachments/Pastedimage20250611102545.png)
-
-
+![](/img/user/img/user/fashaun-dev-world/Pasted image 20250611114335.png)
 # Enterprise Articles
 - https://www.techtarget.com/searchnetworking/definition/CAPWAP-Control-and-Provisioning-of-Wireless-Access-Points
 - https://support.huawei.com/enterprise/en/doc/EDOC1100334297/2471df23/understanding-capwap
