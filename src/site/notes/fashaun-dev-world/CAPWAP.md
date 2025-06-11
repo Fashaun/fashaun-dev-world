@@ -8,7 +8,7 @@
 
 ![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250606165811.png)
 
-![](/img/user/fashaun-dev-world/attachments/Pasted image 20250611102545.png)
+![](/img/user/fashaun-dev-world/attachments/Pastedimage20250611102545.png)
 
 
 # Enterprise Articles
