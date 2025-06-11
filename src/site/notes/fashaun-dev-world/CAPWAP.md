@@ -3,8 +3,12 @@
 ---
 
 
+![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted%20image%2020250606165811.png)
+
 
 ![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250606165811.png)
+
+![](/img/user/fashaun-dev-world/attachments/Pasted image 20250611102545.png)
 
 
 # Enterprise Articles
@@ -16,3 +20,6 @@
 - #capwap
 # Ref
 - https://cshihong.github.io/2018/04/25/CAPWAP%E5%9F%BA%E7%A1%80%E5%8E%9F%E7%90%86/
+- https://www.youtube.com/watch?v=KKkWAGHZuZc
+- https://datatracker.ietf.org/doc/html/rfc5415
+- https://datatracker.ietf.org/doc/html/rfc5416
