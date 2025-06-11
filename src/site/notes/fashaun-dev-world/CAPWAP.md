@@ -3,6 +3,9 @@
 ---
 
 
+![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted%20image%2020250606165811.png)
+
+
 ![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250606165811.png)
 
 
