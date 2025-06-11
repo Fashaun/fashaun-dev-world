@@ -8,3 +8,11 @@
 	- Image Rename Plugin 
 - Setup Attachment Folder in obsidian
 	- ![](/img/user/fashaun-dev-world/attachments/imagePath.png)
+
+### KB and Information
+
+- Path Syntax will be auto transformed
+	- ![](/img/user/fashaun-dev-world/attachments/obsidian_paste_path.png)
+	- ![](/img/user/fashaun-dev-world/attachments/MarkdownSyntax.png)
+- Obsidian Attachement Path will be auto deployed
+	- ![](/img/user/fashaun-dev-world/attachments/GithubPath.png)
