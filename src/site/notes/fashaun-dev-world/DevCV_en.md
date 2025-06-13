@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-cv-en/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-cv-en/"}
 ---
 
 

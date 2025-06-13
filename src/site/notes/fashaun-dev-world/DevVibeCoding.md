@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-vibe-coding/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-vibe-coding/"}
 ---
+
 
 # AI Knowledge
 - AI Agent 

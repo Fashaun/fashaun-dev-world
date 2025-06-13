@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"Projects.md","permalink":"/projects/","noteIcon":""}
+{"dg-publish":true,"dg-path":"Projects.md","permalink":"/projects/"}
 ---
+
 
 #projects
 # MRC Quick Link BYOD

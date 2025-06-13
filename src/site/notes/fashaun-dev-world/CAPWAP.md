@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/capwap/","noteIcon":""}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/capwap/"}
 ---
-
 
 ![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted%20image%2020250606165811.png)
 
