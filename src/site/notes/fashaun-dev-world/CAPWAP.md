@@ -2,13 +2,20 @@
 {"dg-publish":true,"permalink":"/fashaun-dev-world/capwap/","noteIcon":""}
 ---
 
-![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted%20image%2020250606165811.png)
+
+![](/img/user/fashaun-dev-world/attachment/CAPWAP_AP.png)
 
 
-![](/img/user/publications/journals-workflowy/swd/content/kb/Pasted image 20250606165811.png)
+![](/img/user/fashaun-dev-world/attachment/CAPWAP_WG.png)
+
+![](/img/user/fashaun-dev-world/attachment/CAPWAP_Start.png)
 
 
-![](/img/user/img/user/fashaun-dev-world/CAPWAP.png)
+![](/img/user/fashaun-dev-world/attachment/CAPWAPFlow.png)
+
+
+![](/img/user/fashaun-dev-world/attachment/CAPWAPEncap.png)
+
 
 # Enterprise Articles
 - https://www.techtarget.com/searchnetworking/definition/CAPWAP-Control-and-Provisioning-of-Wireless-Access-Points
