@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/beyond-vibe-coding/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/beyond-vibe-coding/","noteIcon":""}
 ---
 
 

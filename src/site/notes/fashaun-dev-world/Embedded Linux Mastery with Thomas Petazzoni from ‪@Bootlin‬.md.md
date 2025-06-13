@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/embedded-linux-mastery-with-thomas-petazzoni-from-bootlin-md/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/embedded-linux-mastery-with-thomas-petazzoni-from-bootlin-md/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-learn-x-the-hardway/the-hard-way/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-learn-x-the-hardway/the-hard-way/","noteIcon":""}
 ---
 
 

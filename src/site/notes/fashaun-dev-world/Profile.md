@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/profile/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/profile/","noteIcon":""}
 ---
 
 # Profile

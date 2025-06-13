@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/industrial-regulation/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/industrial-regulation/","noteIcon":""}
 ---
 
 # IEC62443

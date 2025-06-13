@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-jpn/dev-jpn-plan/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-jpn/dev-jpn-plan/","noteIcon":""}
 ---
 
 

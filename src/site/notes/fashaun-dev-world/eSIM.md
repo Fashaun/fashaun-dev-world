@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/e-sim/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/e-sim/","noteIcon":""}
 ---
 
 # Glossary

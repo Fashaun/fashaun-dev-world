@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/code-review/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/code-review/","noteIcon":""}
 ---
 
 # Auto Code Review

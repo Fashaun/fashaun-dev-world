@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/wan-bonding/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/wan-bonding/","noteIcon":""}
 ---
 
 

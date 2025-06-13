@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-mac-os/"}
+{"dg-publish":true,"permalink":"/fashaun-dev-world/dev-mac-os/","noteIcon":""}
 ---
 
 
