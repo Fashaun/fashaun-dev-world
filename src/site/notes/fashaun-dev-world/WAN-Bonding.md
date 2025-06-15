@@ -4,8 +4,16 @@
 
 
 
-# Tag
 
+
+# Fortinet
+- https://www.fortinet.com/tw/resources/cyberglossary/what-is-wan-aggregation
+
+# Cradlepoint
+- https://cradlepoint.com/resources/blog/what-is-link-aggregation-explaining-wan-bonding-bandwidth-and-better-performance/
+
+# Tag
+#WAN_Aggregation
 #WAN_Bonding
 #SDWAN
 # Ref

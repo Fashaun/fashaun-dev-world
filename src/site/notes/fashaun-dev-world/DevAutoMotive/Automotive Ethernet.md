@@ -35,3 +35,6 @@ https://www.youtube.com/watch?v=KwNAEdjd7d0
 # Tags
 #automotive
 # Ref
+- [Automotive Protocol Stack - Technica Engineering](https://www.youtube.com/watch?v=d1CRKS5sy5c)
+- https://www.youtube.com/@IntrepidControlSystems
+- https://www.youtube.com/watch?v=0EEi4pYjnDY
