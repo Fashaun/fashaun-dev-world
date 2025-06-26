@@ -14,6 +14,7 @@
 - 🐦 Bluesky: [@fashaun.bsky.social](https://bsky.app/profile/fashaun.bsky.social)  
 - 💬 Telegram: @fashaun
 - 🌐 Digital Garden: [fashaun-dev-world.vercel.app](https://fashaun-dev-world.vercel.app/)
+- Bento: https://bento.me/fashaun
 
 ---
 

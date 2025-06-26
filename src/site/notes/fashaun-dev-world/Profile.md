@@ -4,7 +4,7 @@
 
 # Profile
 - Bluesky : https://bsky.app/profile/fashaun.bsky.social
-- Discord : 
+- Discord : fashaun
 - Masterdon :
 - Telegram : @fashaun
 
